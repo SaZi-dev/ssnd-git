@@ -3,3 +3,4 @@ pivo
 voda
 kofola
 dzus
+alkohol

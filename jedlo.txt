@@ -5,3 +5,6 @@ hranolky
 ryza
 slane
 sladke
+ryba
+salat
+polievky
