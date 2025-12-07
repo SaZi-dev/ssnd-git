@@ -1,10 +1,10 @@
-maso
-zelenina
-zemiaky
-hranolky
-ryza
-slane
-sladke
-ryba
-salat
-polievky
+maso 12x
+zelenina 12x
+zemiaky 12x
+hranolky 12x
+ryza 12x
+slane 12x
+sladke 12x
+ryba 12x
+salat 12x
+polievky 12x

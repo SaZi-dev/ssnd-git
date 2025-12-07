@@ -1,6 +1,6 @@
-vino
-pivo
-voda
-kofola
-dzus
-alkohol
+vino 12x
+pivo 12x
+voda 12x
+kofola 12x
+dzus 12x
+alkohol 12x
